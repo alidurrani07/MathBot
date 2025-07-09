@@ -38,3 +38,9 @@ Copy
 Edit
 jupyter notebook
 Open mathbot.ipynb in your browser and explore.
+
+
+## Screenshot
+
+
+![image](https://github.com/user-attachments/assets/4ec0f9ef-b06a-42f4-929f-93979ee7082d)
